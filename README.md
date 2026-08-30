@@ -103,7 +103,7 @@ $ ./contribution_snake.sh --palette matrix
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/void4code/void4code/output/dist/matrix-snake.svg" alt="contribution snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/void4code/void4code/output/matrix-snake.svg" alt="contribution snake" width="100%"/>
 
 </div>
 
