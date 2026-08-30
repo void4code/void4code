@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="42%" r="75%">
+      <stop offset="0%" stop-color="#310007"/>
+      <stop offset="55%" stop-color="#0d0002"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+    <filter id="neon" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="b1"/>
+      <feMerge>
+        <feMergeNode in="b1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="neon-soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3.2" result="b2"/>
+      <feMerge>
+        <feMergeNode in="b2"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="scan" width="3" height="3" patternUnits="userSpaceOnUse">
+      <rect width="3" height="1.2" fill="#ff0033" opacity="0.05"/>
+    </pattern>
+  </defs>
+
+  <rect width="900" height="260" fill="url(#bg)"/>
+  <rect width="900" height="260" fill="url(#scan)"/>
+  <rect x="2.5" y="2.5" width="895" height="255" fill="none" stroke="#ff0033" stroke-width="1.5" opacity="0.55"/>
+
+  <g stroke="#ff0033" stroke-width="3" fill="none" opacity="0.95">
+    <path d="M22,22 L22,54 M22,22 L54,22"/>
+    <path d="M878,22 L878,54 M878,22 L846,22"/>
+    <path d="M22,238 L22,206 M22,238 L54,238"/>
+    <path d="M878,238 L878,206 M878,238 L846,238"/>
+  </g>
+
+  <text x="452" y="128" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-weight="700" font-size="66" fill="#00e5ff" opacity="0.45">void4code
+    <animate attributeName="x" values="452;448;452;456;452" dur="4.2s" repeatCount="indefinite"/>
+  </text>
+  <text x="448" y="128" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-weight="700" font-size="66" fill="#ff0033" opacity="0.55">void4code
+    <animate attributeName="x" values="448;452;448;444;448" dur="4.2s" repeatCount="indefinite"/>
+  </text>
+  <text x="450" y="128" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-weight="700" font-size="66" fill="#ffffff" filter="url(#neon)">void4code</text>
+
+  <text x="450" y="168" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="19" letter-spacing="5" fill="#ff0033" filter="url(#neon-soft)">ROOT ACCESS :: GRANTED</text>
+
+  <text x="450" y="206" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#b3122b">&gt; whoami — aspiring cybersecurity engineer<tspan fill="#ff0033">_
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;1;1" dur="1.1s" repeatCount="indefinite"/>
+  </tspan></text>
+</svg>

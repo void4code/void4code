@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0D2818&height=200&section=header&text=void4code&fontSize=68&fontColor=39FF14&fontAlign=50&fontAlignY=35&desc=root%40kernel%3A~%23%20whoami&descAlign=50&descAlignY=62&descSize=18&animation=fadeIn&fontFamily=Fira%20Code" alt="banner" width="100%"/>
+<img src="assets/hero.svg" alt="void4code" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2500&pause=700&color=39FF14&center=true&vCenter=true&width=700&lines=%3E+aspiring+cybersecurity+engineer;%3E+building+python+tools+that+bite;%3E+breaking+things+to+understand+them;%3E+owner+of+Void-Tools;root%40void4code%3A~%24+_" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2500&pause=700&color=FF0033&center=true&vCenter=true&width=700&lines=%3E+aspiring+cybersecurity+engineer;%3E+building+python+tools+that+bite;%3E+breaking+things+to+understand+them;%3E+owner+of+Void-Tools;root%40void4code%3A~%24+_" alt="Typing SVG" />
 
-![Profile views](https://komarev.com/ghpvc/?username=void4code&style=for-the-badge&color=39FF14&labelColor=000000)
-![Status](https://img.shields.io/badge/status-compiling...-39FF14?style=for-the-badge&labelColor=000000)
-![Uptime](https://img.shields.io/badge/uptime-since_2026-39FF14?style=for-the-badge&labelColor=000000)
+![Profile views](https://komarev.com/ghpvc/?username=void4code&style=for-the-badge&color=FF0033&labelColor=000000)
+![Status](https://img.shields.io/badge/status-breaching...-FF0033?style=for-the-badge&labelColor=000000)
+![Clearance](https://img.shields.io/badge/clearance-root-FF0033?style=for-the-badge&labelColor=000000)
+![Uptime](https://img.shields.io/badge/uptime-since_2026-FF0033?style=for-the-badge&labelColor=000000)
 
 </div>
 
@@ -64,7 +65,7 @@ $ git log --stats --author=void4code
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=void4code&theme=dark&hide_border=true&background=000000&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=39FF14&sideNums=39FF14&dates=39FF14" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=void4code&theme=dark&hide_border=true&background=000000&stroke=FF0033&ring=FF0033&fire=FF0033&currStreakLabel=FF0033&sideLabels=FF0033&currStreakNum=FF0033&sideNums=FF0033&dates=FF0033" alt="GitHub Streak" height="165"/>
 
 <br><br>
 
@@ -89,18 +90,6 @@ $ ./activity_graph.sh --range 30d
 <br>
 
 ```bash
-$ ./contribution_snake.sh --palette matrix
-```
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/void4code/void4code/output/matrix-snake.svg" alt="contribution snake" width="100%"/>
-
-</div>
-
-<br>
-
-```bash
 $ echo "root@void4code:~$ exit"
 ```
 
@@ -108,6 +97,6 @@ $ echo "root@void4code:~$ exit"
 
 *compiling knowledge, one exploit at a time.*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D2818,100:000000&height=100&section=footer&text=EOF&fontSize=28&fontColor=39FF14&fontAlign=50&fontAlignY=55&animation=fadeIn&fontFamily=Fira%20Code" alt="footer" width="100%"/>
+<img src="assets/footer.svg" alt="EOF" width="100%"/>
 
 </div>

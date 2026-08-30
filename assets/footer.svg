@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="110" viewBox="0 0 900 110">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="50%" r="80%">
+      <stop offset="0%" stop-color="#2a0006"/>
+      <stop offset="70%" stop-color="#000000"/>
+    </radialGradient>
+    <filter id="neon" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="900" height="110" fill="url(#bg)"/>
+  <rect x="2" y="2" width="896" height="106" fill="none" stroke="#ff0033" stroke-width="1.5" opacity="0.5"/>
+  <g stroke="#ff0033" stroke-width="2.5" fill="none" opacity="0.9">
+    <path d="M18,18 L18,38 M18,18 L38,18"/>
+    <path d="M882,18 L882,38 M882,18 L862,18"/>
+    <path d="M18,92 L18,72 M18,92 L38,92"/>
+    <path d="M882,92 L882,72 M882,92 L862,92"/>
+  </g>
+  <text x="450" y="65" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-weight="700" font-size="30" letter-spacing="8" fill="#ff0033" filter="url(#neon)">
+    EOF
+    <animate attributeName="opacity" values="1;0.55;1" dur="2.4s" repeatCount="indefinite"/>
+  </text>
+</svg>
