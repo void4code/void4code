@@ -25,8 +25,13 @@
   </defs>
 
   <rect width="900" height="260" fill="url(#bg)"/>
+  <circle cx="450" cy="120" r="230" fill="#ff0033" opacity="0.12">
+    <animate attributeName="opacity" values="0.08;0.22;0.08" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
   <rect width="900" height="260" fill="url(#scan)"/>
-  <rect x="2.5" y="2.5" width="895" height="255" fill="none" stroke="#ff0033" stroke-width="1.5" opacity="0.55"/>
+  <rect x="2.5" y="2.5" width="895" height="255" fill="none" stroke="#ff0033" stroke-width="1.5" opacity="0.55">
+    <animate attributeName="opacity" values="0.35;0.75;0.35" dur="2.6s" repeatCount="indefinite"/>
+  </rect>
 
   <g stroke="#ff0033" stroke-width="3" fill="none" opacity="0.95">
     <path d="M22,22 L22,54 M22,22 L54,22"/>
@@ -35,13 +40,16 @@
     <path d="M878,238 L878,206 M878,238 L846,238"/>
   </g>
 
-  <text x="452" y="128" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-weight="700" font-size="66" fill="#00e5ff" opacity="0.45">void4code
-    <animate attributeName="x" values="452;448;452;456;452" dur="4.2s" repeatCount="indefinite"/>
+  <text x="450" y="128" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-weight="700" font-size="74" fill="#ff0033" filter="url(#neon)" opacity="0.6">void4code
+    <animate attributeName="opacity" values="0.4;0.85;0.4" dur="2.6s" repeatCount="indefinite"/>
   </text>
-  <text x="448" y="128" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-weight="700" font-size="66" fill="#ff0033" opacity="0.55">void4code
-    <animate attributeName="x" values="448;452;448;444;448" dur="4.2s" repeatCount="indefinite"/>
+  <text x="453" y="128" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-weight="700" font-size="74" fill="#00e5ff" opacity="0.4">void4code
+    <animate attributeName="x" values="453;448;453;458;453" dur="4.2s" repeatCount="indefinite"/>
   </text>
-  <text x="450" y="128" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-weight="700" font-size="66" fill="#ffffff" filter="url(#neon)">void4code</text>
+  <text x="447" y="128" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-weight="700" font-size="74" fill="#ff0033" opacity="0.5">void4code
+    <animate attributeName="x" values="447;452;447;442;447" dur="4.2s" repeatCount="indefinite"/>
+  </text>
+  <text x="450" y="128" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-weight="700" font-size="74" fill="#ffffff" filter="url(#neon)">void4code</text>
 
   <text x="450" y="168" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="19" letter-spacing="5" fill="#ff0033" filter="url(#neon-soft)">ROOT ACCESS :: GRANTED</text>
 
