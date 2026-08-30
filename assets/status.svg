@@ -1,22 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="366" viewBox="0 0 800 366">
-<rect x="1" y="1" width="798" height="364" rx="10" fill="#000000" stroke="#39FF14" stroke-width="2"/>
-<text x="28" y="42" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="20" fill="#39FF14">root@void4code:~$ ./status.sh</text>
-<line x1="24" y1="56" x2="776" y2="56" stroke="#0d3d0d" stroke-width="1"/>
-<text x="40" y="92" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="17" fill="#0d3d0d">&gt; public_repos</text>
-<text x="260" y="92" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="17" fill="#39FF14">1</text>
-<text x="40" y="122" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="17" fill="#0d3d0d">&gt; followers</text>
-<text x="260" y="122" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="17" fill="#39FF14">0</text>
-<text x="40" y="152" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="17" fill="#0d3d0d">&gt; following</text>
-<text x="260" y="152" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="17" fill="#39FF14">0</text>
-<text x="40" y="182" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="17" fill="#0d3d0d">&gt; stars_earned</text>
-<text x="260" y="182" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="17" fill="#39FF14">0</text>
-<text x="40" y="212" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="17" fill="#0d3d0d">&gt; top_language</text>
-<text x="260" y="212" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="17" fill="#39FF14">n/a</text>
-<text x="40" y="242" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="17" fill="#0d3d0d">&gt; account_age</text>
-<text x="260" y="242" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="17" fill="#39FF14">7d</text>
-<line x1="24" y1="282" x2="776" y2="282" stroke="#0d3d0d" stroke-width="1"/>
-<rect x="40" y="294" width="135" height="28" rx="14" fill="#000000" stroke="#39FF14" stroke-width="1.5"/>
-<text x="107.5" y="313" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="13" fill="#39FF14">FRESH_INSTALL</text>
-<rect x="189" y="294" width="81" height="28" rx="14" fill="#000000" stroke="#39FF14" stroke-width="1.5"/>
-<text x="229.5" y="313" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="13" fill="#39FF14">BUILDER</text>
+<defs><filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="1" y="1" width="798" height="364" rx="10" fill="#000000" stroke="#ff0033" stroke-width="2" filter="url(#glow)"/>
+<text x="28" y="42" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="20" fill="#ff0033" filter="url(#glow)">root@void4code:~$ ./status.sh</text>
+<line x1="24" y1="56" x2="776" y2="56" stroke="#4d0010" stroke-width="1"/>
+<text x="40" y="92" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="17" fill="#4d0010">&gt; public_repos</text>
+<text x="260" y="92" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="17" fill="#ff0033">1</text>
+<text x="40" y="122" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="17" fill="#4d0010">&gt; followers</text>
+<text x="260" y="122" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="17" fill="#ff0033">0</text>
+<text x="40" y="152" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="17" fill="#4d0010">&gt; following</text>
+<text x="260" y="152" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="17" fill="#ff0033">0</text>
+<text x="40" y="182" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="17" fill="#4d0010">&gt; stars_earned</text>
+<text x="260" y="182" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="17" fill="#ff0033">0</text>
+<text x="40" y="212" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="17" fill="#4d0010">&gt; top_language</text>
+<text x="260" y="212" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="17" fill="#ff0033">Python</text>
+<text x="40" y="242" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="17" fill="#4d0010">&gt; account_age</text>
+<text x="260" y="242" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="17" fill="#ff0033">7d</text>
+<line x1="24" y1="282" x2="776" y2="282" stroke="#4d0010" stroke-width="1"/>
+<rect x="40" y="294" width="135" height="28" rx="14" fill="#000000" stroke="#ff0033" stroke-width="1.5" filter="url(#glow)"/>
+<text x="107.5" y="313" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="13" fill="#ff0033">FRESH_INSTALL</text>
+<rect x="189" y="294" width="81" height="28" rx="14" fill="#000000" stroke="#ff0033" stroke-width="1.5" filter="url(#glow)"/>
+<text x="229.5" y="313" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="13" fill="#ff0033">BUILDER</text>
+<rect x="284" y="294" width="108" height="28" rx="14" fill="#000000" stroke="#ff0033" stroke-width="1.5" filter="url(#glow)"/>
+<text x="338.0" y="313" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="13" fill="#ff0033">PYTHONISTA</text>
 </svg>
