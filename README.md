@@ -16,6 +16,6 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode&theme=dark" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,php,bash,linux,git,github,vscode&theme=dark" alt="skills"/>
 
 </div>
