@@ -59,39 +59,30 @@ More details coming as the repo goes public.
 <br>
 
 ```bash
-$ ./trophies.sh --theme matrix
-```
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=void4code&theme=matrix&no-frame=true&column=4&row=2&margin-w=8&margin-h=8" alt="trophies"/>
-
-</div>
-
-<br>
-
-```bash
 $ git log --stats --author=void4code
 ```
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=void4code&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=39FF14&text_color=39FF14&icon_color=39FF14&ring_color=39FF14" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=void4code&theme=dark&hide_border=true&background=000000&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=39FF14&sideNums=39FF14&dates=39FF14" alt="GitHub Streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=void4code&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=39FF14&text_color=39FF14" alt="Top Langs" height="165"/>
+<br><br>
+
+<img src="assets/status.svg" alt="system status" width="100%"/>
 
 </div>
+
+<sub>↳ self-hosted: rendered by a workflow in this repo straight from the GitHub API, no third-party dashboard to go down</sub>
 
 <br>
 
 ```bash
-$ ./activity_graph.sh --range 31d
+$ ./activity_graph.sh --range 30d
 ```
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=void4code&bg_color=000000&color=39FF14&line=39FF14&point=39FF14&title_color=39FF14&area=true&area_color=39FF14&hide_border=true" alt="activity graph" width="100%"/>
+<img src="assets/activity.svg" alt="activity graph" width="100%"/>
 
 </div>
 
