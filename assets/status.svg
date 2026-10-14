@@ -17,9 +17,9 @@
 <text x="450" y="72" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="16" fill="#4d0010">&gt; repos</text>
 <text x="580" y="72" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="16" fill="#ff0033" filter="url(#glow)">1</text>
 <text x="450" y="96" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="16" fill="#4d0010">&gt; followers</text>
-<text x="580" y="96" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="16" fill="#ff0033" filter="url(#glow)">122</text>
+<text x="580" y="96" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="16" fill="#ff0033" filter="url(#glow)">124</text>
 <text x="450" y="120" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="16" fill="#4d0010">&gt; stars</text>
-<text x="580" y="120" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="16" fill="#ff0033" filter="url(#glow)">115</text>
+<text x="580" y="120" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="16" fill="#ff0033" filter="url(#glow)">117</text>
 <text x="450" y="144" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="16" fill="#4d0010">&gt; language</text>
 <text x="580" y="144" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="16" fill="#ff0033" filter="url(#glow)">Python</text>
 <text x="450" y="168" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="16" fill="#4d0010">&gt; uptime</text>
